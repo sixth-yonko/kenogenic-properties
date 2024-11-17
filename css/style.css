@@ -1,0 +1,112 @@
+:root{
+    --bs-body-font-family: roboto
+}
+
+
+
+.nav-link {
+    transition: color 0.3s ease-in-out;
+  }
+  
+  .nav-link:hover {
+    color: #198754; /* Matches the green tone of your brand */
+    text-decoration: underline;
+  }
+  
+  .navbar-brand img {
+    max-height: 40px;
+  }
+  
+  .navbar {
+    padding: 1rem 2rem;
+  }
+  
+
+
+
+
+  
+
+
+.first-yap{
+    color: rgb(9, 43, 82);
+   
+   
+ 
+    
+}
+.orboi{
+    color: orangered;
+}
+
+.flex{
+    display: flex;
+    justify-content: center;
+}
+
+.mini-yap{
+    color: gray;
+   
+}
+
+.orange-chan{
+    margin-top: 30px;
+    background-color: #198754 ;
+   
+}
+
+.second-yap{
+    color: rgb(9, 43, 82);
+    margin-top: 28px;
+    width: 300px;
+    text-decoration: none;
+    padding-bottom: 20px;  
+}
+.randojpeg{
+    margin-top: 20px;
+   width: 150px; 
+}
+.mini-yap{
+    margin-top:10px ;
+    font-size: medium;
+    color: gray;
+}
+.card-cque{
+    color: orangered;
+}
+
+
+.sub-button{
+    text-decoration: none;
+    background-color: red;
+    color: white;
+    border-radius: 10px;
+    padding: 10px;
+    font-weight: bold;
+}
+
+.sub-btn{
+ 
+ 
+    margin-top: 10px;
+}
+
+footer{
+    padding: 10px;
+   background-color: rgb(230, 222, 222);
+}
+
+.sslinfotter{
+    display: inline-block;
+    border: 5px solid white;
+    border-radius: 50%;
+}
+.knoft, .mee{
+    text-decoration: underline;
+    
+}
+
+.c-image{
+    filter: brightness(0.3);
+}
+
